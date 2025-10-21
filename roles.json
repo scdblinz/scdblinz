@@ -1,6 +1,7 @@
 {
-      "owners": [],
+  "roles": [ "owners": [],
       "moderators": [],
       "partners": [],
       "resellers": [], 
+      ]
 }
