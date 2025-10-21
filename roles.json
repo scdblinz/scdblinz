@@ -1,4 +1,5 @@
-owners: [],
+{
+      "owners": [],
       moderators: [],
       partners: [],
       resellers: []
